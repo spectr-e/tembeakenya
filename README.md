@@ -11,7 +11,7 @@ This project exists to make it easier to get started a creating production app i
 
 To get started, just clone the repository and run `npm install && npm run dev`:
 
-    git clone https://github.com/iaincollins/nextjs-starter.git
+    git clone https://github.com/spectr-e/tembeakenya.git
     npm install
     npm run dev
 
